@@ -1,5 +1,7 @@
 # hiring-bias-audit
 
+**Live demo:** [https://rishikeshn-eng.github.io/hiring-bias-audit/](https://rishikeshn-eng.github.io/hiring-bias-audit/) runs the whole pipeline in your browser (bring your own Gemini key for the model calls).
+
 > All code and data live in the [`hiring-bias-audit/`](hiring-bias-audit/) folder. Run `cd hiring-bias-audit` before the commands below.
 
 An adverse-impact audit of an LLM used as a resume screener, built to the
